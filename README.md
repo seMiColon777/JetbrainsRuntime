@@ -1,0 +1,3 @@
+# JetbrainsRuntime
+JetbrainsRuntime
+linux系统下fcitx输入法idea等不兼容需要更换运行环境
